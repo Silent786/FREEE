@@ -13,4 +13,4 @@ cd FREEE
 
 ls
 
-python UID_CLONE.py
+python ALONE.py
